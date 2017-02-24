@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "First node.js + express project template",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start pm2.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wooyaggo/express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wooyaggo/express/issues"
+  },
+  "homepage": "https://github.com/wooyaggo/express#readme"
+}
